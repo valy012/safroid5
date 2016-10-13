@@ -246,7 +246,8 @@ function create_config( )
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @safroid_anti
+    @safroidd
+    @pv_khof
     
     Special Thank To:
     
