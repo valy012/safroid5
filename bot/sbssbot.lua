@@ -239,7 +239,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {199642007},--Sudo users
+    sudo_users = {199642007,29387273},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
@@ -338,7 +338,7 @@ _________________________________________
 _________________________________________
 _________________________________________
 ليست سودوها :
-@safroid_anti
+@safroidd
 @pv_khof
 ]]
   }
