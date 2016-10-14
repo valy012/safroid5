@@ -72,4 +72,4 @@
 
 #Wiki Soon...
 
-#Powered By [@SBSS_Team](telegram.me/Sbss_Team)
+#Powered By [@pv_khof](telegram.me/pv_khof)
